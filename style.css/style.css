@@ -1,0 +1,50 @@
+body{
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ background-image: linear-gradient(to bottom right, red,green);
+}
+
+#title{
+ font-size: 45px;
+}
+#description{
+ font-size: 20px;
+}
+
+#body{
+ width: 600px;
+ padding: 30px;
+ margin: auto;
+ border-radius:10px;
+ text-align: left;
+ background-color: rgba(0,0,0,0.6);
+ font-size: 20px;
+ 
+}
+
+#name, #email, #number, #dropdown{
+ width: 560px;
+ padding: 10px;
+ border-radius: 10px;
+
+}
+#dropdown{
+ width: 585px;
+}
+#comment{
+ width: 570px;
+ padding: 10px;
+ border-radius: 10px;
+ border: none;
+}
+#submit{
+ width: 590px;
+ padding: 20px;
+ font-size: 20px;
+ border-radius: 10px;
+ border: none;
+ margin-top:3% ;
+ color: white;
+ background-color: green;
+}
